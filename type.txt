@@ -1,0 +1,1 @@
+Using Divide and Conquer Strategies design a class for Concurrent Quick Sort using C++
